@@ -1,0 +1,10 @@
+li{
+    color: indigo;
+}
+
+ul li{
+    color: darkred;
+    display: inline;
+    
+
+}
