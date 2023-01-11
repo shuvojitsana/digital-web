@@ -1,0 +1,13 @@
+.div-container{
+    width: 220px;
+    height: 220px;
+    border: 2px solid hotpink;
+    background-color: dodgerblue;
+}
+.inner{
+    background-color: indigo;
+    width: 220px;
+    height: 220px;
+    border: 2px solid hotpink;
+    transform: rotate(45deg)  scale(0.90) translate(90%);
+}
